@@ -307,14 +307,14 @@ export function ContactSection() {
     },
     {
       name: 'WhatsApp',
-      href: 'https://wa.me/918429641492',
+      href: 'https://wa.me/918428641492',
       icon: <MessageSquare className="w-5 h-5" />,
       detail: 'Direct Chat & Instant Work Sync',
       color: 'hover:text-[#25D366] hover:border-[#25D366]/20 hover:bg-[#25D366]/5'
     },
     {
       name: 'Professional Resume',
-      href: 'https://drive.google.com/file/d/11kdglQmoBKVYKLnwAUmD4X9tC3_2-gxZ/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1HONu160okt5x67CxB7HENEkJULOXqBSL/view?usp=drive_link',
       icon: <FileText className="w-5 h-5" />,
       detail: 'Request/Download Latest CV',
       color: 'hover:text-[#4D5B47] hover:border-[#4D5B47]/20 hover:bg-[#4D5B47]/5'
